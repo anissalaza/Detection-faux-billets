@@ -5,7 +5,7 @@
 ## Introduction
 
 Il s'agit ici de créer un algorithme permettant de détecter les faux billets de banque.  
-Un jeu de données, contenant les caractéristiques géométriques de billets de banque, nous a été fournir.  
+Un jeu de données, contenant les caractéristiques géométriques de billets de banque, nous a été fourni.  
 
 Le projet a été réalisé grâce à une **analyse de statistiques descriptives**, ainsi qu'une **analyse en composantes principales**, une **classification automatique**, et une **modélisation de type régression logistique**.  
 
@@ -18,7 +18,7 @@ Le langage informatique utilisé est _Python_.
 
 Les deux scripts pourront ainsi être ouverts grâce à Jupyter ou JupyterLab, au choix.  
 
-Le projet intitulé "_Détection de faux billets_" est composé d'un script contienant le code de l'analyse complète. Les résultats ont été présentés lors d'une [soutenance](https://github.com/anissalaza/Analyse-des-ventes/blob/f1bad10f1816501218e18c12f14d558383925957/Soutenance.pdf) évaluée par un examinateur.
+Le projet intitulé "_Détection de faux billets_" est composé d'un script contenant le code de l'[analyse complète](https://github.com/anissalaza/Detection-faux-billets/blob/d681637165d25ad3b19b43237dd9de53d708edb6/Code.ipynb). Les résultats ont été présentés lors d'une [soutenance](https://github.com/anissalaza/Detection-faux-billets/blob/d681637165d25ad3b19b43237dd9de53d708edb6/Soutenance.pdf) évaluée par un examinateur.
 
 ------------------------------------------------
 
